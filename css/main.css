@@ -1,0 +1,13 @@
+.profile{
+    width:300px; 
+    display:block;
+    margin-left:auto;
+    margin-right:auto
+}
+.name{ 
+    font-size:40px; 
+    font-family: gulim;         
+}
+p { 
+    font-size: 20px;        
+}
